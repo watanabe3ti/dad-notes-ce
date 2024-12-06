@@ -6,23 +6,29 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>How to publish Obsidian notes with Quartz on GitHub Pages</title>
-    <link>https://quartz.jzhao.xyz/obsidian_note</link>
-    <guid>https://quartz.jzhao.xyz/obsidian_note</guid>
-    <description> このノートはObsidianで編集しているものです。 .</description>
-    <pubDate>Wed, 04 Dec 2024 04:36:12 GMT</pubDate>
+    <title>Note</title>
+    <link>https://quartz.jzhao.xyz/note</link>
+    <guid>https://quartz.jzhao.xyz/note</guid>
+    <description>＃ Note このノートはテスト用です。 .</description>
+    <pubDate>Fri, 06 Dec 2024 09:49:28 GMT</pubDate>
   </item><item>
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Wed, 04 Dec 2024 02:11:51 GMT</pubDate>
+    <pubDate>Fri, 06 Dec 2024 08:54:32 GMT</pubDate>
   </item><item>
     <title>2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊</title>
     <link>https://quartz.jzhao.xyz/BOOK_2024</link>
     <guid>https://quartz.jzhao.xyz/BOOK_2024</guid>
     <description>本記事 青木ケンイチ氏の選書を網羅したものです。 全体俯瞰 graph TB a00([start]) --&gt; a1[&quot;Python機械学習プログラミング&lt;br/&gt; PyTorch＆scikit-learn編&quot;] subgraph start [最初の10冊] direction TB a1 ...</description>
-    <pubDate>Wed, 28 Aug 2024 01:53:07 GMT</pubDate>
+    <pubDate>Fri, 06 Dec 2024 08:46:08 GMT</pubDate>
+  </item><item>
+    <title>How to publish Obsidian notes with Quartz on GitHub Pages</title>
+    <link>https://quartz.jzhao.xyz/obsidian_note</link>
+    <guid>https://quartz.jzhao.xyz/obsidian_note</guid>
+    <description> このノートはObsidianで編集しているものです。 .</description>
+    <pubDate>Wed, 04 Dec 2024 05:00:36 GMT</pubDate>
   </item>
     </channel>
   </rss>
