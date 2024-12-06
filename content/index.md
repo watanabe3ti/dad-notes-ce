@@ -1,11 +1,6 @@
 ---
-title: Welcome to dad-notes-ce
+title: Welcome to Quartz
 ---
 
-NOTES（dad-notes-ce） is mostly a miscellaneous journal.
-（ほぼほぼ雑記帳です）
-
----
-
-
-
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.

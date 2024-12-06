@@ -12,11 +12,17 @@
     <description> このノートはObsidianで編集しているものです。 .</description>
     <pubDate>Wed, 04 Dec 2024 04:36:12 GMT</pubDate>
   </item><item>
-    <title>Welcome to dad-notes-ce</title>
+    <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>NOTES（dad-notes-ce） is mostly a miscellaneous journal. （ほぼほぼ雑記帳です） .</description>
+    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
     <pubDate>Wed, 04 Dec 2024 02:11:51 GMT</pubDate>
+  </item><item>
+    <title>2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊</title>
+    <link>https://quartz.jzhao.xyz/BOOK_2024</link>
+    <guid>https://quartz.jzhao.xyz/BOOK_2024</guid>
+    <description>本記事 青木ケンイチ氏の選書を網羅したものです。 全体俯瞰 graph TB a00([start]) --&gt; a1[&quot;Python機械学習プログラミング&lt;br/&gt; PyTorch＆scikit-learn編&quot;] subgraph start [最初の10冊] direction TB a1 ...</description>
+    <pubDate>Wed, 28 Aug 2024 01:53:07 GMT</pubDate>
   </item>
     </channel>
   </rss>
